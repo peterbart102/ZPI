@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 kuba
 jasio
+=======
+Ala ma kota
+kot ma ale
+
+
+>>>>>>> branch2
